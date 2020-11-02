@@ -1,2 +1,2 @@
 # Hajimeteno_pr
-Exercises in Hajimeteno pattern recognition
+Exercises in "The First Pattern Recognition"　(「はじめてのパターン認識」)
