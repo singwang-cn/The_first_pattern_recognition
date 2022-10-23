@@ -1,2 +1,2 @@
-# Hajimeteno_pr
-Exercises in "The First Pattern Recognition"　(「はじめてのパターン認識」)
+# Exercises of "The First Time Pattern Recognition"
+Own answers for the exercises of the textbook called "The First Time Pattern Recognition"　(「はじめてのパターン認識」).
